@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CardConnect (Fiserv) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cardconnect.com/
+CardConnect, a Fiserv company, provides payment processing solutions that enable merchants to accept credit and debit cards both online and in‑store. Their CardPointe platform offers a suite of tools including a payment gateway, virtual terminal, mobile SDKs, and integrated APIs for developers to embed payment functionality directly into applications. CardConnect focuses on secure, PCI‑compliant transactions, fraud detection, and detailed reporting, serving businesses of all sizes across multiple industries.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cardconnect.com/)
+- [Documentation](https://developer.cardconnect.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cardconnect/](https://apis.io/providers/cardconnect/).
